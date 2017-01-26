@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\practice\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\practice\\OneKeyLock\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\OneKeyLock\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

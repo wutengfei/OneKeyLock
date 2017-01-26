@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\practice\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "E:\\Android\\practice\\OneKeyLock\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "E:\\Android\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "E:\\Android\\OneKeyLock\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    }
+]

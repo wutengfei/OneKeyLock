@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\OneKeyLock\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\practice\\OneKeyLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\practice\\OneKeyLock\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
